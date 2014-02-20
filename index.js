@@ -3,9 +3,9 @@
  * dependencies
  */
 
-var events = require('events')
-  , classes = require('classes')
-  , map = require('map')
+var events = require('component-events')
+  , classes = require('component-classes')
+  , map = require('component-map')
   , slice = [].slice;
 
 /**
